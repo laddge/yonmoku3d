@@ -3,7 +3,7 @@
   import Scene from '$lib/components/Scene.svelte'
 </script>
 
-<div class="h-screen">
+<div class="h-screen" style="height: 100dvh;">
   <Canvas>
     <Scene />
   </Canvas>
